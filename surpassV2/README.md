@@ -1,3 +1,5 @@
+![v2logo.png](https://github.com/anthonymcwhite/surpass-tool/blob/main/media/v2logo.png)
+
 ### This is the second iteration of the surpass-tool 
 <hr noshade>
 <br>
