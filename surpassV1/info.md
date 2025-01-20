@@ -1,6 +1,5 @@
 ## This is the first iteration of the Surpass-Tool
-<br>
-<hr noshade>
+<hr>
 <tt>
 V1 of the surpass-tool responds a little differently to the [main] passwd 
 database being included before running the script for the first time.</tt>
