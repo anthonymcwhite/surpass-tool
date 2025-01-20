@@ -13,3 +13,5 @@ you may have to trouble shoot a little if it gives you any issues.</tt>
 <hr noshade>
 <tt>if you have anything creative or unique to contribute feel free to send a message.</tt>
 <br>
+<hr>
+![logo2v1.png](https://github.com/anthonymcwhite/surpass-tool/blob/main/media/logo2V1.png)
