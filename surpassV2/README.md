@@ -1,0 +1,6 @@
+### This is the second iteration of the surpass-tool 
+<hr noshade>
+<br>
+<tt>although im sure there will be still be bugs to fix</tt>
+<tt>this version is improved and shoud include the updated</tt>
+<tt>password database[file] - it also runs a little slower</tt>
