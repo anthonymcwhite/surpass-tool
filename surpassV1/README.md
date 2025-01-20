@@ -1,3 +1,5 @@
+![logo2v1.png](https://github.com/anthonymcwhite/surpass-tool/blob/main/media/logo2V1.png)
+
 ## This is the first iteration of the Surpass-Tool
 <hr>
 <tt>V1 of the surpass-tool responds a little differently to the [main] passwd 
@@ -15,5 +17,3 @@ you may have to trouble shoot a little if it gives you any issues.</tt>
 <br>
 <hr>
 <br> 
-
-![logo2v1.png](https://github.com/anthonymcwhite/surpass-tool/blob/main/media/logo2V1.png)
