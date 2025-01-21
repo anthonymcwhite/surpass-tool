@@ -13,7 +13,7 @@ Step 1 (optional)<br>
 - create python virtual env like so; 
 <br>
 
-![virtual-env.mp4]([https://github.com/user-attachments/assets/079ace73-3fcc-4fd8-8c28-f001c03cbe9a](https://github.com/anthonymcwhite/surpass-tool/blob/main/media/virtual-env.mp4))
+![]()
 <br> 
 
 
