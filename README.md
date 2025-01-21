@@ -29,6 +29,6 @@
 - install requirements using pip
 <hr noshade>
 
-![instructions3.png]()
+![instructions3.png](https://github.com/anthonymcwhite/surpass-tool/blob/main/media/instructions3.png)
 
 
