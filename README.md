@@ -8,7 +8,7 @@
 <br>
 
 ### how to get started; <br>
-# Step 1 (optional)
+## Step 1 (optional)
 <br>
 - create python virtual env like so; 
 <hr noshade>
@@ -16,8 +16,14 @@
 
 ![instructions1.png](https://github.com/anthonymcwhite/surpass-tool/blob/main/media/instructions1.png)
 <br> 
+## Step 2 (not optional)
+<br>
+- clone repository to your local environment<br>
+(do this inside of the virtual env you created)
+<hr noshade>
 
-
+![instructions2.png](https://github.com/anthonymcwhite/surpass-tool/blob/main/media/instructions2.png)
+<br>
 
 
 
