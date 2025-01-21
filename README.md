@@ -16,7 +16,7 @@
 
 ![instructions1.png](https://github.com/anthonymcwhite/surpass-tool/blob/main/media/instructions1.png)
 <br> 
-## Step 2 (not optional)
+## Step 2
 <br>
 - clone repository to your local environment<br>
 (do this inside of the virtual env you created)
@@ -24,6 +24,11 @@
 
 ![instructions2.png](https://github.com/anthonymcwhite/surpass-tool/blob/main/media/instructions2.png)
 <br>
+## Step 3
+<br>
+- install requirements using pip
+<hr noshade>
 
+![instructions3.png]()
 
 
