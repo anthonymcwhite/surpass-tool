@@ -31,4 +31,11 @@
 
 ![instructions3.png](https://github.com/anthonymcwhite/surpass-tool/blob/main/media/instructions3.png)
 
+## Step 4
+<br>
+- initiate the script with the command<br>
+(python3 surpass-tool.py)
+<hr noshade>
+
+![instructions4.png](https://github.com/anthonymcwhite/surpass-tool/blob/main/media/instructions4.png)
 
