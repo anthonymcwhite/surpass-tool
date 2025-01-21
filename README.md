@@ -9,14 +9,15 @@
 <br>
 <tt>**this tool was designed to be ran on kali linux and has only been tested on the LinuxOS**</tt>
 <br>
-Step 1 (optional)<br>
+# Step 1 (optional)
+<br>
 - create python virtual env like so; 
 <br>
 
-![]()
+![instructions1.png](https://github.com/anthonymcwhite/surpass-tool/blob/main/media/instructions1.png)
 <br> 
 
 
-![v2-2.png](https://github.com/anthonymcwhite/surpass-tool/blob/main/media/v2-2.png)
+
 
 
