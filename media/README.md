@@ -7,3 +7,7 @@
 <br>
 <tt>however, remember to be a good chap and give credit where credit is do please</tt>
 <br>
+<hr noshade>
+<br>
+
+![thanks.png](https://github.com/anthonymcwhite/surpass-tool/blob/main/media/thanks.png)
