@@ -331,8 +331,9 @@ def show_manual():
     DISCLAIMER:
     This tool is for educational and research purposes only.
     Do not use for unauthorized access or malicious purposes.
-    
-    Creator: asmcwhite243@gmail.com
+
+    For any questions, comments or concerns 
+    Contact: asmcwhite243@gmail.com
     
         =======
        ||     ||
